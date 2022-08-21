@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 My Portfolio [https://my-portfolio-client-alpha.vercel.app/](https://my-portfolio-client-alpha.vercel.app/)
+- 👨‍💻 My [Website](https://my-portfolio-client-alpha.vercel.app/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, Bootstrap, Tailwind, Daisy UI, React JS, Node JS, Express JS, Mongodb**
 
