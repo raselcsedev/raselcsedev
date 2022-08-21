@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 My [Website](https://my-portfolio-client-alpha.vercel.app/)
-
 - 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, Bootstrap, Tailwind, Daisy UI, React JS, Node JS, Express JS, Mongodb**
 
 - 📫 How to reach me **raselcse.dev@gmail.com**
+
+- 👨‍💻 My [Website](https://my-portfolio-client-alpha.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
