@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselcsedev&label=Profile%20views&color=0e75b6&style=flat" alt="raselcsedev" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Front-End Web Development with React JS**
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, Bootstrap, Tailwind, Daisy UI, React JS, Node JS, Express JS, Mongodb**
 
