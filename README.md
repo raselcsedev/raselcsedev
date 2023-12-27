@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **raselcse.dev@gmail.com**
 
-- 👨‍💻 My [Website]([https://my-portfolio-client-alpha.vercel.app/](https://rasel-portfolio-theta.vercel.app/))
+- 👨‍💻 My [Website](https://rasel-portfolio-theta.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
