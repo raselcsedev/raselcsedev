@@ -1,17 +1,17 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://github.com/raselcsedev)
 <h1 align="center">Hi 👋, I'm Md. Rasel Aktar</h1>
-<h3 align="center">A Passionate Web Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselcsedev&label=Profile%20views&color=0e75b6&style=flat" alt="raselcsedev" /> </p>
 
-- 🌱 I’m currently learning **Front-End Web Development with React JS**
+- 🌱 I’m currently working as a **Frontend Developer @ Digital Intelligence System Ltd**
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, ES6, Bootstrap, Tailwind, Daisy UI, React JS, Node JS, Express JS, Mongodb**
+- 💬 Ask me about **Next.js, React.js, JavaScript, ES6, Tailwind CSS, Bootstrap, SASS, CSS3, HTML5 etc.**
 
 - 📫 How to reach me **raselcse.dev@gmail.com**
 
-- 👨‍💻 My [Website](https://my-portfolio-client-alpha.vercel.app/)
+- 👨‍💻 My [Website]([https://my-portfolio-client-alpha.vercel.app/](https://rasel-portfolio-theta.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
