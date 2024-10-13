@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working as a **Frontend Developer @ Digital Intelligence System Ltd**
 
-- 💬 Ask me about **Next.js, React.js, JavaScript, ES6, Tailwind CSS, Bootstrap, SASS, CSS3, HTML5 etc.**
+- 💬 Ask me about **Next.js, React.js, TypeScript, JavaScript, React Hook Query, Formik Validation, RC-table, Tanstack-table, Tailwind CSS, Bootstrap, SASS**
 
 - 📫 How to reach me **raselcse.dev@gmail.com**
 
