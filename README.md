@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/raselcsedev/raselcsedev/blob/5da8bd0ef3c00354a0cf31197897b497629c4f4e/Github_Profile_Image.gif)](https://github.com/raselcsedev)
 
 <h1 align="center">Hi 👋, I'm Md. Rasel Aktar</h1>
-<h3 align="center">A Passionate Frontend Web Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer from Bangladesh</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselcsedev&label=Profile%20views&color=0e75b6&style=flat" alt="raselcsedev" /> </p>
