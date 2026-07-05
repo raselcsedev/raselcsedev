@@ -8,11 +8,17 @@
 
 - 🌱 I’m currently working as a **Frontend Developer @ Digital Intelligence System Ltd**
 
-- 💬 Ask me about **Next.js, React.js, TypeScript, JavaScript, React Hook Query, Formik Validation, RC-table, Tanstack-table, Tailwind CSS, Bootstrap, SASS**
+<h3 align="left">TECHNICAL SKILLS</h3>
+- Frontend Technologies: **Next.js, React.js, Angular, TypeScript, JavaScript (ES6), TanStack Query (React Query), React Hook Form, SASS, CSS3, HTML5, Tailwind CSS, Bootstrap, Shadcn UI, Aceternity UI, REST API, Responsive Web Design, Cross-Browser Compatibility**
+- API & State Management: **RESTful API Integration, Axios, Fetch API, Redux Toolkit, Client-Side State Management, Server State Management.**
+- Performance & Frontend Engineering: **Performance Optimization, Code Splitting, Lazy Loading, Browser Rendering, DOM & Virtual DOM, Accessibility (WCAG), Responsive Design, Component-Based Architecture, Reusable UI Development.**
+- Backend & Database: **Node.js, Express.js, MongoDB, Mongoose, Backend API Integration**
+- Tools & Platforms: **Git, GitHub, Jira, Postman, VS Code, Chrome DevTools, Firebase, Vercel, Netlify, NPM.**
+- Development Practices: **Agile/Scrum Methodologies, Code Reviews, Debugging, Version Control, Clean Code Principles, Software Development Lifecycle (SDLC.**
 
 - 📫 How to reach me **raselcse.dev@gmail.com**
 
-- 👨‍💻 My [Website](https://rasel-portfolio-theta.vercel.app/)
+- 👨‍💻 My [Website](https://personal-website-six-chi-23.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
