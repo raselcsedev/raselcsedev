@@ -17,6 +17,7 @@
 - 🔄 Migrated legacy React, AngularJS, and ASP.NET WebForms pages to **Angular 17+ standalone components**
 - 🛍️ Built **10+ industry-specific storefront themes** with dynamic theming, multilingual (`next-intl`) and multi-currency support
 - 💳 Integrated **bKash** and **SSLCommerz** payment gateways, guest checkout, and cash-on-delivery
+- 🚧 Currently building **Product Manager**, a full-stack app with **Next.js + ASP.NET Core + SQL Server**
 - 🤖 Built AI products with the **OpenAI API** (AI Content Studio, Bizpost AI)
 - 🎓 B.Sc. in Computer Science and Engineering, University of South Asia
 - 🗣️ Languages: **Bangla** (Native), **English** (Full working proficiency)
@@ -35,7 +36,7 @@
 - 💬 **APIs & Integrations:** REST API Integration, GraphQL, Apollo Client, Axios, Fetch API, OpenAI API, bKash, SSLCommerz
 - 💬 **State Management:** Redux Toolkit, Client-Side State Management, Server State Management
 - 💬 **Performance & Frontend Engineering:** Performance Optimization, Code Splitting, Lazy Loading, Browser Rendering, DOM & Virtual DOM, Accessibility (WCAG), Component-Based Architecture, Reusable UI Development
-- 💬 **Backend & Database (familiarity):** Node.js, Express.js, MongoDB, Mongoose, ASP.NET Core Web API (C#), MySQL
+- 💬 **Backend & Database (familiarity):** Node.js, Express.js, MongoDB, Mongoose, ASP.NET Core Web API (C#), SQL Server, Entity Framework Core, MySQL
 - 💬 **Tools & Platforms:** Git, GitHub, Jira, Postman, VS Code, Chrome DevTools, Firebase, Vercel, Netlify, npm
 - 💬 **Development Practices:** Agile/Scrum Methodologies, Code Reviews, Debugging, Version Control, Clean Code Principles, Software Development Lifecycle (SDLC)
 
@@ -45,6 +46,7 @@
 
 | Project | Description | Tech | Links |
 | --- | --- | --- | --- |
+| **Product Manager** 🚧 *In progress* | Full-stack product CRUD app with a Next.js frontend and an ASP.NET Core (.NET 8) Web API on SQL Server. Uses Entity Framework Core migrations and Swagger, with a test project and Docker Compose and Caddy deployment setup. | Next.js, ASP.NET Core, C#, SQL Server, Entity Framework Core, Docker | [Code](https://github.com/raselcsedev/product-manager) |
 | **AI Content Studio** | AI SaaS platform that generates blog posts, emails, code snippets, and image prompts. Includes authentication, role-based access control, usage analytics dashboard, searchable content history, and dark/light themes. | Next.js, TypeScript, MongoDB, OpenAI API, NextAuth, Tailwind CSS | [Code](https://github.com/raselcsedev/ai-content-studio) |
 | **RetailPOS** | Full-stack point-of-sale and inventory system with barcode generation and scanning, thermal receipt printing, role-based access, reporting, and PWA support. | Next.js, TypeScript, MongoDB, Mongoose, NextAuth, Tailwind CSS | [Code](https://github.com/raselcsedev/retail-pos) · [Live](https://jovial-sable-2db9bd.netlify.app/) |
 | **Ride Vibe** | Car rental platform with vehicle discovery, online reservations, Stripe payments, booking management, and an admin system. | Next.js, MongoDB, Mongoose, Stripe, SMTP, ShadCN UI, Tailwind CSS | [Code](https://github.com/raselcsedev/ride-vibe) · [Live](https://ride-vibe.vercel.app/) |
