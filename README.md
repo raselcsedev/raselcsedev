@@ -67,8 +67,29 @@ These are company projects, so the source code is private:
 
 ## 💼 Experience
 
-- **Frontend Developer**, Digital Intelligence System Ltd., Dhaka (Nov 2023 – Present)
-- **JavaScript Developer**, Gain Solutions Ltd., Dhaka (Sep 2022 – Oct 2023): built frontend features for *Unite Living*, a house rental management system, using React.js, GraphQL, and Apollo Client
+### Frontend Developer · Digital Intelligence System Ltd., Dhaka
+*Nov 2023 – Present*
+
+**Enterprise ERP (Base ERP, Hatil ERP)** — Angular, TypeScript, RxJS, Tailwind CSS, TanStack Query
+- Build and maintain enterprise ERP applications, delivering frontend workflows across **Sales, Purchase, and Inventory** modules: Sales Bills, Warehouse Bills, Repair Service, Dealer Money Receipts, Raw Material Purchases, and Finished Goods Receipts
+- Migrated legacy **React, AngularJS, and ASP.NET WebForms** pages to **Angular 17+ standalone components** across sales, inventory, procurement, HR, and admin modules
+- Integrated backend **REST APIs** and developed reusable, responsive UI components, including a **configurable data-table component** for data-heavy enterprise workflows
+
+**eCommerce Platforms (Quick eCommerce, Retail Master)** — Next.js, TypeScript, Tailwind CSS, TanStack Query
+- Develop **multi-vendor** (Quick eCommerce) and **single-vendor** (Retail Master) eCommerce platforms
+- Built and maintain **10+ industry-specific storefront themes** (grocery, medicine, furniture, footwear, watches, lifestyle) with dynamic theming
+- Integrated **bKash** and **SSLCommerz** payment gateways and implemented guest checkout, cash-on-delivery, multilingual support (`next-intl`), and multi-currency functionality
+
+**AI Product (Bizpost AI)** — Next.js, TypeScript
+- Developed an AI-powered social media content generation platform for creating **Facebook, TikTok, and LinkedIn** content
+
+### JavaScript Developer · Gain Solutions Ltd., Dhaka
+*Sep 2022 – Oct 2023*
+
+**Unite Living** (house rental management system) — React.js, GraphQL, Apollo Client
+- Developed frontend features and implemented CRUD functionality with **GraphQL** APIs for application data management
+- Built reusable, maintainable UI components that improved interface consistency across the application
+- Collaborated with cross-functional team members in an Agile environment to deliver production-ready features
 
 ---
 
