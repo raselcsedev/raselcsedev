@@ -74,4 +74,3 @@
 - 🔒 **Secure Auth** — bcrypt password hashing, HTTP-only `secure` `SameSite=None` JWT cookies, server-side ownership checks on every resource.
 - 🌙 **Dark / Light Mode** — System preference + manual toggle across the entire dashboard.
 
-**Architecture:**
